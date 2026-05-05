@@ -105,14 +105,6 @@ Questo approccio ha portato, tra le altre cose, a:
 - Ridurre la velocità di lettura predefinita rispetto ai valori standard
 - Mantenere i controlli di navigazione semplici e sempre visibili
 
----
-
-## Autori
-
-- **Eliodoro Mascolo** — sviluppo ML, training modelli CoreML
-- **Francesca Maria** — sviluppo iOS, architettura dell'app
-
----
 
 ## Linguaggio e localizzazione
 
